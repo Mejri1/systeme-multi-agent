@@ -1,0 +1,17 @@
+# Dossiers d'environnement virtuel
+venv/
+env/
+.venv/
+ENV/
+
+# Fichiers Python générés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers de configuration et cache
+.pytest_cache/
+.mypy_cache/
+*.swp
+*.swo
+*~
